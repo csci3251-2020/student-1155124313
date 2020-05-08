@@ -18,4 +18,4 @@ Course No. | Course Title
 *CSCI3250* | Computers and Society
 *CSCI3251* | Engineering Practicum
 
-![](/home/s1155124313/Desktop/screenshot.jpg)
+![](/home/s1155124313/Desktop/screenshot.png)
